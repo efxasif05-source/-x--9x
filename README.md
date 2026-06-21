@@ -36,6 +36,20 @@
 
 ---
 
+# 📞 Contact Owner
+
+<p align="center">
+  <a href="https://www.facebook.com/share/1BKvKrPHPq/">
+    <img src="https://img.shields.io/badge/Facebook-Contact%20Owner-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+
+  <a href="https://wa.me/8801930237805">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
+
+---
+
 # 🚀 Installation
 
 ```bash
